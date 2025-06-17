@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O **S & T STATION** é uma aplicação web desenvolvida para facilitar o acesso, upload, visualização e gestão de partituras musicais. A aplicação permite que os utilizadores explorem uma vasta biblioteca de partituras, façam upload de ficheiros, visualizem partituras em diferentes formatos e interajam com outros utilizadores através de comentários e avaliações.
+O **S & T STATION** é uma aplicação web desenvolvida para facilitar o acesso, upload, visualização e gestão de partituras e cifras musicais. A aplicação permite que os utilizadores explorem uma vasta biblioteca de partituras/cifras, façam upload de ficheiros, visualizem partituras em diferentes formatos.
 
 ## Funcionalidades Principais
 
